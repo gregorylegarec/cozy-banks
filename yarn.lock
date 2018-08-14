@@ -3585,13 +3585,13 @@ csstype@^2.5.2:
   version "2.5.3"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.5.3.tgz#2504152e6e1cc59b32098b7f5d6a63f16294c1f7"
 
-csswring@6.0.3:
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/csswring/-/csswring-6.0.3.tgz#0bff02451fae33ac70d6379ae13d1cc791b7f96f"
+csswring@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/csswring/-/csswring-7.0.0.tgz#a5873f727ecedbb33900a864ee5d8ea7413333e8"
   dependencies:
     minimist "^1.2.0"
     onecolor "^3.0.5"
-    postcss "^6.0.17"
+    postcss "^7.0.0"
 
 currently-unhandled@^0.4.1:
   version "0.4.1"
@@ -10922,7 +10922,7 @@ postcss@^5.0.10, postcss@^5.0.11, postcss@^5.0.12, postcss@^5.0.13, postcss@^5.0
     source-map "^0.5.6"
     supports-color "^3.2.3"
 
-postcss@^6.0.1, postcss@^6.0.17:
+postcss@^6.0.1:
   version "6.0.21"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-6.0.21.tgz#8265662694eddf9e9a5960db6da33c39e4cd069d"
   dependencies:
